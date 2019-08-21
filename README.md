@@ -1,2 +1,2 @@
-# Crypto example
+# Crypto backend
 Javascript blockchain implementation
