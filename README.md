@@ -1,0 +1,2 @@
+# Brewcoin
+Javascript blockchain implementation
