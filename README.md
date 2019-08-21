@@ -1,2 +1,2 @@
 # Brewcoin
-Javascript blockchain implementation for educational purposes
+Javascript blockchain implementation
