@@ -1,2 +1,2 @@
-# Brewcoin
+# Crypto example
 Javascript blockchain implementation
