@@ -1,2 +1,2 @@
-# Brewcoin
+# Crypto backend
 Javascript blockchain implementation
