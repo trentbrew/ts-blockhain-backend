@@ -1,5 +1,5 @@
 {
-  "name": "brewcoin",
+  "name": "brewcoin-service",
   "version": "1.0.1",
   "description": "Simple Blockchain implementation in Javascript for educational purposes",
   "keywords": [
